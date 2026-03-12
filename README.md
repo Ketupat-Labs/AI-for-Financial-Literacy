@@ -46,5 +46,4 @@ borneo-hackwknd-ai-coach/
 └── .gitignore
 ```
 =======
-# AI-for-Financial-Literacy
->>>>>>> e5faf4fdffb8bd8e0ae9ff1dba1a27ddfc2a74b6
+
